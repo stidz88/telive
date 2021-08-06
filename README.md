@@ -1,4 +1,4 @@
-telive - Tetra Live Monitor
+    telive - Tetra Live Monitor
 (c) 2014-2015 Jacek Lipkowski <sq5bpf@lipkowski.org>
 
 telive is a program which can be used to display information like
